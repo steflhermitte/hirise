@@ -108,6 +108,12 @@ input, select, textarea {
 			-ms-transition: none !important;
 			transition: none !important;
 		}
+		
+		.logo {
+			height:70px;
+			margin-top: 125px;
+			margin-right: 50px;
+		}
 
 /* Type */
 
